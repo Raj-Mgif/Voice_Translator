@@ -1,4 +1,4 @@
-#Voice_Translato
+#Voice_Translator
 
 
 #Python_Translator_For_Indian_Languages_with_GUI
